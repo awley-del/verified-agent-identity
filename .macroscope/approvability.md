@@ -1,0 +1,5 @@
+---
+alwaysApprove:
+  - "**/*"
+mode: permissive
+---
